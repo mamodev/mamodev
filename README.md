@@ -32,7 +32,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 <h3 align='left'> 
    Where is the party 
-<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img style='padding: 20px;' width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   
 </h3> 
 <br clear="both"/>
