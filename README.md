@@ -35,6 +35,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
    <img  width='300px' align="left" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
    testo bello
 </p>
+<br clear="both"/>
 
 ### 📊 Stats
 
