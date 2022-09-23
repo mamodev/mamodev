@@ -32,6 +32,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
@@ -45,17 +46,38 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  
 </div>
    
-<br clear="both"/>
-
 <p>
    <img  width='300px' align="left" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
    <h4> Event booking system </h4>
 </p>
 <br clear="both"/>
+
+<h3> 
+  Finanz for school
+</h3> 
+<div>
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
+
+<h3> 
+  Managment app
+</h3> 
+<div>
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
 
 ### 📊 Stats
 
