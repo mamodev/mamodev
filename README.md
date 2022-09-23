@@ -33,7 +33,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 ### ⚪️ Where is the party  <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <p>
    <img  width='300px' align="left" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
-   ####Event booking system
+   <h3> Event booking system </h3>
 </p>
 <br clear="both"/>
 
