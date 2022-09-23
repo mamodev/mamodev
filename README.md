@@ -32,10 +32,11 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 #### Where is the party
 <div style='display: flex;'>
+   <img  width='300px' style="float: right;" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+
    <p>ciao</p>
    <p> ciao</p>
 </div>
-<img  width='300px' style="float: right;" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
 testo bello
 
 ### 📊 Stats
