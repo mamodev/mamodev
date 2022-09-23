@@ -31,12 +31,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 <img  width='300px' src="https://static.wixstatic.com/media/717ae6_2df1c532b96f4ac28e5705b99501bad5~mv2.png/v1/crop/x_126,y_0,w_1638,h_1080/fill/w_858,h_566,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/projects.png" />
 
 #### Where is the party
-<div style='display: flex;'>
-   <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
-
-   <p>ciao</p>
-   <p> ciao</p>
-</div>
+<img  width='300px' align="left" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
 testo bello
 
 ### 📊 Stats
