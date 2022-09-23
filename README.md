@@ -32,6 +32,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 <h3 align='left'> 
    Where is the party 
+   &#32;	&#32;	&#32;	
    <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
