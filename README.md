@@ -30,3 +30,28 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 ### 📊 Stats
 
 ![Mamodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamodev&show_icons=true&theme=gruvbox)
+
+
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [43.769562, 11.255814]
+        },
+      
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
