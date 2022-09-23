@@ -30,14 +30,14 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 ### ⚪️ Project4u
 <img  width='300px' src="https://static.wixstatic.com/media/717ae6_2df1c532b96f4ac28e5705b99501bad5~mv2.png/v1/crop/x_126,y_0,w_1638,h_1080/fill/w_858,h_566,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/projects.png" />
 
-<h3 align='left'> 
+<h3> 
    Where is the party 
-   ---
-   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </h3> 
+<img width='15px' height: '15px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+   
 <br clear="both"/>
 
 <p>
