@@ -47,7 +47,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
           "type": "Point",
           "properties": {"prop0": "value0"},
           "coordinates": [43.769562, 11.255814]
-        },
+        }
       
       ]
     }
