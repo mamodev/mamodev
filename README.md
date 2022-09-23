@@ -20,3 +20,8 @@
     <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   </div>
+
+
+### 📊 Stats
+
+![Mamodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamodev&show_icons=true&theme=gruvbox)
