@@ -32,7 +32,8 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 #### Where is the party
 <img  width='300px' style="float: right;" src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
-testo
+testo bello
+
 ### 📊 Stats
 
 ![Mamodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamodev&show_icons=true&theme=gruvbox)
