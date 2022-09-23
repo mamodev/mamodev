@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style={{display: "flex"}}>
+<div style={{display: "flex", backgtoundColor: 'rgb(100,100,100)'}}>
   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
