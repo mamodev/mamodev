@@ -32,8 +32,10 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 <h3 align='left'> 
    Where is the party 
-<img  width='30px' height: '60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  
+   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </h3> 
 <br clear="both"/>
 
