@@ -28,7 +28,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 ## 📝 Projects
 
-<p align='left'>
+<p align='ceter'>
   <h3> 
      Project4U
   </h3> 
