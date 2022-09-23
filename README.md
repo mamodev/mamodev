@@ -33,10 +33,12 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 <h3> 
    Where is the party 
 </h3> 
-<img width='15px' height: '15px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<div>
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
    
 <br clear="both"/>
 
