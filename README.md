@@ -28,7 +28,6 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 ## 📝 Projects
 
-<div style="text-align: right"> 
   <h3> 
      Project4U
   </h3> 
@@ -42,7 +41,6 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   </div>
    <img  width='300px' src="https://static.wixstatic.com/media/717ae6_2df1c532b96f4ac28e5705b99501bad5~mv2.png/v1/crop/x_126,y_0,w_1638,h_1080/fill/w_858,h_566,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/projects.png" />
 </p>
-</div>
   
 
 
