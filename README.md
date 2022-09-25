@@ -48,10 +48,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
     <td> <h3> Where is the party </h3>
      <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </td>
-
-    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-
+ </tr>
 </table>
 
 
