@@ -44,10 +44,12 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+|<h3> Where is the party </h3>   | Content Cell  |
+| Content Cell  | Content Cell  |
 
-<h3> 
-   Where is the party 
-</h3> 
+
 <div>
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
