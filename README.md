@@ -30,6 +30,8 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 <table>
   <tr>
+  <tr/>
+  <tr>
     <td> 
       <h3>Project4U</h3> 
         <div>
