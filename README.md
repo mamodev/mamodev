@@ -30,7 +30,10 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 
 <table>
   <tr>
-    sdf
+    <td></td>
+    <td></td>
+    <td></td>
+    
   <tr/>
   <tr>
     <td> 
