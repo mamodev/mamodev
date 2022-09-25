@@ -44,7 +44,12 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   
 
 
-| <h3> Where is the party </h3>    <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  | Second Header |
+|
+<span> 
+  <h3> Where is the party </h3>    
+  <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</span>
+| Second Header |
 | ------------- | ------------- |
 |  | Content Cell  |
 | Content Cell  | Content Cell  |
