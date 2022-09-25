@@ -100,10 +100,6 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
 </div>
 <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
 
-text 
-<div style="text-align: right"> your-text-here </div> text
-text
-
 ### 📊 Stats
 
 ![Mamodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamodev&show_icons=true&theme=gruvbox)
