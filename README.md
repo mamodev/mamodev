@@ -26,9 +26,45 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </div>
 
+<!-- 
 ## 📝 Projects
-
 <table>
+   <tr>
+    <td> 
+      <div align="right">
+        <code>Project4U</code> 
+        <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width='20px' height: '20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      </div>
+      <img width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+    </td>
+    <td> 
+      <code>Where is the party?</code> 
+      <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+    </td>
+    <td> 
+      <code>Managment app</code>
+      <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+    </td>
+  </tr>
+  <tr></tr>
+  
+  <tr>
+    <td> 
+      <code>GlutEatFree</code> 
+      <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+    </td>
+    <td> 
+      <code>Finanz for school</code>
+      <img  width='300px' src="https://lh3.googleusercontent.com/u/0/d/18C7oUVOPNfq15WYHmxP6M3ZV5juU0Xcj=w2880-h1578-iv1" />
+    </td>
+    <td style="text-align: right"> 
+      Contact me!
+    </td>
+  </tr>
+</table>
+
+<!-- <table>
   <tr>
     <td></td>
     <td></td>
@@ -103,7 +139,7 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
     </td>
   </tr>
   
-</table>
+</table> -->
 
 ### 📊 Stats
 
