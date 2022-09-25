@@ -44,9 +44,9 @@ I'm a mainly front-end developer currently studyng CS in <a>Pisa University</a> 
   
 
 
-| First Header  | Second Header |
+| <h3> Where is the party </h3>   | Second Header |
 | ------------- | ------------- |
-|<h3> Where is the party </h3>   | Content Cell  |
+|  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
